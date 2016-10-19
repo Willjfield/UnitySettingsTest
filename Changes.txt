@@ -1,0 +1,21 @@
+Changes:
+
+	Skybox:
+		Reflections: gradient
+
+	Build settings:
+		Target: Android
+		Texture Compression: GLES 3.0
+		Development Build: true
+
+	Project Settings:
+		Quality:
+			Anti Aliasing: 4x multisampling
+			Shadow Projection: close fit
+		Editor:
+			Resolution: Downsize
+			Version Control:
+				Mode: Visible Meta Files
+			Asset Serialization:
+				Mode: Forced Text
+		
